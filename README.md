@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FITTURKBLOG](https://github.com/berkayturkk/FitTurkBlog)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and Pyhton**
 
 - 👨‍💻 All of my projects are available at [https://github.com/berkayturkk](https://github.com/berkayturkk)
 
